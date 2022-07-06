@@ -1,0 +1,225 @@
+body {
+    margin: 0;
+    width: 100%;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+
+}
+
+.banner-container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(images/flood.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 0;
+}
+
+.banner-descreption {
+    text-align: center;
+}
+
+.header1 {
+    font-size: 45px;
+    text-align: center;
+    font-weight: 700;
+    color: white;
+
+}
+
+.text {
+    text-align: center;
+    font-size: 18px;
+    position: center;
+    color: white;
+}
+
+.banner-btn {
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.donate-container {
+    display: flex;
+    text-align: center;
+}
+
+.donate-text {
+    position: center;
+    font-size: 18px;
+}
+
+.donate-list ul {
+
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+
+}
+
+.donate-list li {
+    list-style: none;
+    margin: 2px;
+    padding: 10px;
+}
+
+.mark {
+    box-shadow: 2px;
+    border-radius: 1px solid rgb(156, 106, 106);
+}
+
+.donate-btn {
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 15px;
+    text-decoration: none;
+}
+
+.donateplan-section {
+    margin-top: 30px;
+}
+
+.about-plan {
+    text-align: center;
+
+}
+
+.card-description {
+    display: flex;
+}
+
+.card1 {
+    width: 350px;
+    height: 250px;
+    border: 1px solid gray;
+    text-align: center;
+    background-color: rgb(199, 231, 199);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px gray;
+    margin-top: 40px;
+    margin-right: 10px;
+
+}
+
+.card2 {
+    width: 350px;
+    height: 250px;
+    border: 1px solid rgb(230, 199, 199);
+    text-align: center;
+    background-color: rgb(236, 164, 142);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px gray;
+    margin-top: 40px;
+    margin-right: 10px;
+
+}
+
+.card3 {
+    width: 350px;
+    height: 250px;
+    border: 1px solid rgb(199, 243, 186);
+    text-align: center;
+    background-color: rgb(232, 233, 179);
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px gray;
+    margin-top: 40px;
+
+
+}
+
+.help-section {
+    display: flex;
+    margin-right: 15px;
+    margin-top: 40px;
+
+}
+
+.help-right {
+    width: 50px;
+    text-align: center;
+
+    width: 500px;
+}
+
+.help-img img {
+    padding: 20px;
+    height: 300px;
+    margin-top: 50px;
+}
+
+.contribute-btn {
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+}
+
+.update {
+    text-align: center;
+}
+
+.footer-container {
+    padding: 100px;
+    line-height: 1.7;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    margin-right: 15px;
+
+}
+
+.email {
+    padding: 15px 25px;
+    border-radius: 5px;
+
+}
+
+.subscribe {
+    padding: 15px 25px;
+    border-radius: 5px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+}
+
+.footer {
+    float: left;
+    width: 100%;
+    height: 70px;
+    margin-top: 30px;
+    background-color: black;
+    padding: 15px;
+    color: white;
+}
+
+.footer h4 {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+    color: #f73f11;
+    text-decoration: none;
+
+}
+
+
+
+.footer p {
+    font-size: 16px;
+    text-align: center;
+    color: rgb(247, 233, 233);
+}
